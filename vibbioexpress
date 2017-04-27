@@ -1,5 +1,9 @@
 {
   "en": {
+    "startpage.public.title": "Welcome to VIBBIO Express!",
+    "startpage.public.description": "VIBBIO Express is a self-service solution for video production – where you CAPTURE & UPLOAD your content, and we add the smarts and deliver a publish-ready video within days.",
+    "startpage.public.examples": "We create short, texted and dynamic videos. Here are a couple of {examples}.",
+    "startpage.public.beta.description": "PS: This application is currently in beta, which means that all the functionality is not finished. Therefore we would really appreciate your feedback on {link}.",
     "discount.deliverytype.SOON": "This disocount code lets you .... ",
     "discount.deliverytype.EXPRESS": "This discount code gives you a discount on one video with express delivery time",
     "discount.deliverytype.STANDARD": "This discount code gives you a discount on one video with standard delivery time",

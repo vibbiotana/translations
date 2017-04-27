@@ -1,4 +1,8 @@
-'discount.deliverytype.SOON': 'This disocount code lets you .... ',
-'discount.deliverytype.EXPRESS': 'This discount code gives you a discount on one video with express delivery time',
-'discount.deliverytype.STANDARD': 'This discount code gives you a discount on one video with standard delivery time',
-'discount.deliverytype.ALL': 'This discount code gives you a discount on your video'
+{
+  en: {
+    'discount.deliverytype.SOON': 'This disocount code lets you .... ',
+    'discount.deliverytype.EXPRESS': 'This discount code gives you a discount on one video with express delivery time',
+    'discount.deliverytype.STANDARD': 'This discount code gives you a discount on one video with standard delivery time',
+    'discount.deliverytype.ALL': 'This discount code gives you a discount on your video'
+  }
+}

@@ -6,7 +6,7 @@
     "about.page.examples.format": "*Our videos are always tailored to fit the idea and profile of each case, so these examples are just to show a few variations of the smart video format",
     "about.page.example.ids": ["209398687", "209399638"],
     "about.page.smart.header": "SMART SPECIALISTS",
-    "about.page.smart.paragraph": [
+    "about.page.smart.paragraphs": [
       "Our team of producers and content specialists have lots of experience in how to create the ultimate smart videos. And this is knowledge we now implement in this new service!",
       "Storytelling in a short format of maximum 1 minute can be challenging, but when done correctly, the reach and effect can be fantastic. Building engagement and visibility through portioning your content into short, specific episodes – collected into targeted and themed series, is a very smart video strategy – and can be added to over any suitable time period.",
       "We specialise in tailoring our formats to fit any type of content – which includes implementing a full range of our smart tactics, including initial hook, text plaquards, suitable tempo & clip rate, and many more.",
@@ -14,9 +14,26 @@
        "- What engages people, and makes them curious and attentive? Emotions are triggers!",
        "- How long do they stay tuned? Our attention span has been measured to max 1 min 15 sec.",
        "- 93% of videos seen on Facebook are watched without sound on.. So text everything!",
-       "- We scroll down a page in typically 3 seconds - so that is the time available to “hook” a viewer."],
-
-
+       "- We scroll down a page in typically 3 seconds - so that is the time available to “hook” a viewer."
+    ],
+    "about.page.storyteller.header": "BECOME A STORYTELLER",
+    "about.page.storyteller.paragraphs": [
+      "Videos that capture the biggest audiences, are no longer very polished, or carry a salesy pitch...",
+      "Instead, a personal touch, a documentary feel, an honest and real view into the actual situation and a real life – these are all positive narratives, that help to build trustworthy brands, and a feeling of honesty, through letting people get to know the real you - the real company etc.",
+      "This means that it can actually be a real bonus to collect your own clips, by using easygoing camera tools, smartphones and such. Keeping the clips short and specific helps to create a clear message. (We have easy tips & tricks about how to get going.)",
+      "The visual clips are the “packaging” and colouring-in of smart videos. The most important element is the content; the message.",
+      "Building knowledge, through sharing something (without expecting anything back) - for example though tips & tricks - is a fun and easy way to engage your audience."
+    ],
+    "about.page.prices.header": "OUR PRICES*",
+    "about.page.pries.paragrapsh": [
+      "Express delivery (2 working days): NOK 20.000,- (ex. vat)",
+      "EUR 2.200,- ",
+      "Normal delivery (5 working days): NOK 15.000,- (ex. vat)",
+      "EUR 1.600,- ",
+      "50% of the cost is paid online when confirming your video order.",
+      "The final 50% is invoiced upon delivery of finished file.",
+      "* There are limited options for making changes to your video after editing is completed, so make sure to give as specific information and descriptions as possible, to help ensure that you receive the style of video you wanted."
+    ],
     "startpage.public.title": "Welcome to VIBBIO Express!",
     "startpage.public.video.id": "214151164",
     "startpage.public.video.text": "You've probably heard by now, video is the future of communication. So, what's holding you back? Video is too expensive you say? No time to learn editing? Well hey, no need to worry! The answer is right in front of you. Your experiences, your stories, your knowledge. Simply capture with your smartphone and we'll do the rest. Engaging, short, texted, targeted. Videos tailor-made for you. With Vibbio Express you collect the content, we edit and add the smarts! So, don't waste your money or your time. Capture, upload, download, publish. It's video. Made easy.",

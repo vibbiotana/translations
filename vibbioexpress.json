@@ -34,6 +34,31 @@
       "The final 50% is invoiced upon delivery of finished file.",
       "* There are limited options for making changes to your video after editing is completed, so make sure to give as specific information and descriptions as possible, to help ensure that you receive the style of video you wanted."
     ],
+    "faq.page.title": "Frequently Asked Questions (FAQ)",
+    "fag.page.questions": [
+      {
+        "question": "I want to make a video, but I don&apos;t know where to start!?",
+        "answerParagraphs": [
+          "We suggest you begin by setting a <b>topic</b> and a <b>goal</b> for your video, and work out a plan based on that. Will the video be a product explanation on your website, or do you want to use it on Facebook to drive traffic to your website? You should always tailor your content to fit your needs",
+          "After you have decided on your <b>topic</b> and <b>goal</b>, you should write out a <b>plan</b> for the video. This should include what <b>text</b> you want, and the <b>video clips/images</b> you want to go along with it. After that, it is just a matter of gathering the right clips to fit. Do you need to interview someone, or perhaps you have existing clips of your product you already want to use? It is time to gather up all of your material. ",
+          "When you have all your content ready (text and video clips/images), you should look through it all and decide the order you want it to go in. If you want us to use parts of a video clip, make sure to take notes of the <b>time stamps</b> of where it should begin and end.",
+          "Send in your content to us, and our talented video producers will work their magic, creating a short, engaging, texted and targeted video based on your needs.",
+          "If you want more tips, check out our \"<b>Tips & Tricks</b>\"-series <a href=\"https://vibbioexpress.com/tips\">here</Link>. If you want to receive video marketing tips twice a month, you are welcome to subscribe to our newsletter (link)."
+          ]
+      },
+      {
+        "question": "Question 2",
+        "answerParagraphs": ["Hei ", "hallooo"]
+      },
+
+      {
+        "question": "Question 3",
+        "answerParagraphs": ["hei"]
+      }
+    ]
+
+
+
     "startpage.public.title": "Welcome to VIBBIO Express!",
     "startpage.public.video.id": "214151164",
     "startpage.public.video.text": "You've probably heard by now, video is the future of communication. So, what's holding you back? Video is too expensive you say? No time to learn editing? Well hey, no need to worry! The answer is right in front of you. Your experiences, your stories, your knowledge. Simply capture with your smartphone and we'll do the rest. Engaging, short, texted, targeted. Videos tailor-made for you. With Vibbio Express you collect the content, we edit and add the smarts! So, don't waste your money or your time. Capture, upload, download, publish. It's video. Made easy.",

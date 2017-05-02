@@ -1,6 +1,6 @@
 {
   "en": {
-    "about.page.title": "About VIBBIO Express!",
+    "about.page.title": "About VIBBIO Express",
     "about.page.description": "VIBBIO Express is our self-service solution for video production – where you CAPTURE & UPLOAD your content, and we ADD THE SMARTS and deliver a publish-ready video within days.",
     "about.page.examples.title": "Here are couple of examples*:",
     "about.page.examples.format": "*Our videos are always tailored to fit the idea and profile of each case, so these examples are just to show a few variations of the smart video format",
@@ -116,13 +116,6 @@
             "question": "And what about file sizes?",
             "answerParagraphs": [
               "The maximum file size we allow per file is <b>400mb.</b> If you want to make sure you stay below the limit, we suggest that you try to make each clip maximum one minute in length. This should ensure that the file size is within the boundaries with most file types and video qualities."
-            ]
-          },
-          {
-            "question": "asdfsdfsdf?",
-            "answerParagraphs": [
-              "The maximum file size we allow per file is <b>400mb.</b> If you want to make sure you stay below the limit, we suggest that you try to make each clip maximum one minute in length. This should ensure that the file size is within the boundaries with most file types and video qualities.",
-              "sdfølskdfølskdfølksdf"
             ]
           }
         ]

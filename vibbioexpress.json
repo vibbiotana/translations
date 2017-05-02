@@ -34,31 +34,112 @@
       "The final 50% is invoiced upon delivery of finished file.",
       "* There are limited options for making changes to your video after editing is completed, so make sure to give as specific information and descriptions as possible, to help ensure that you receive the style of video you wanted."
     ],
-    "faq.page.title": "Frequently Asked Questions (FAQ)",
+    "faq.page.title": "Frequently Asked Questions (FAQ)"
     "faq.page.questions": [
       {
-        "question": "I want to make a video, but I don&apos;t know where to start!?",
-        "answerParagraphs": [
-          "We suggest you begin by setting a <b>topic</b> and a <b>goal</b> for your video, and work out a plan based on that. Will the video be a product explanation on your website, or do you want to use it on Facebook to drive traffic to your website? You should always tailor your content to fit your needs",
-          "After you have decided on your <b>topic</b> and <b>goal</b>, you should write out a <b>plan</b> for the video. This should include what <b>text</b> you want, and the <b>video clips/images</b> you want to go along with it. After that, it is just a matter of gathering the right clips to fit. Do you need to interview someone, or perhaps you have existing clips of your product you already want to use? It is time to gather up all of your material. ",
-          "When you have all your content ready (text and video clips/images), you should look through it all and decide the order you want it to go in. If you want us to use parts of a video clip, make sure to take notes of the <b>time stamps</b> of where it should begin and end.",
-          "Send in your content to us, and our talented video producers will work their magic, creating a short, engaging, texted and targeted video based on your needs.",
-          "If you want more tips, check out our \"<b>Tips & Tricks</b>\"-series <a href=\"https://vibbioexpress.com/tips\">here</Link>. If you want to receive video marketing tips twice a month, you are welcome to subscribe to our newsletter (link)."
-          ]
+        "topic": "Content",
+        "questions": [
+          {
+            "question": "I want to make a video, but I don't know where to start!?",
+            "answerParagraphs": [
+              "We suggest you begin by setting a <b>topic</b> and a <b>goal</b> for your video, and work out a plan based on that. Will the video be a product explanation on your website, or do you want to use it on Facebook to drive traffic to your website? You should always tailor your content to fit your needs",
+              "After you have decided on your <b>topic</b> and <b>goal</b>, you should write out a <b>plan</b> for the video. This should include what <b>text</b> you want, and the <b>video clips/images</b> you want to go along with it. After that, it is just a matter of gathering the right clips to fit. Do you need to interview someone, or perhaps you have existing clips of your product you already want to use? It is time to gather up all of your material. ",
+              "When you have all your content ready (text and video clips/images), you should look through it all and decide the order you want it to go in. If you want us to use parts of a video clip, make sure to take notes of the <b>time stamps</b> of where it should begin and end.",
+              "Send in your content to us, and our talented video producers will work their magic, creating a short, engaging, texted and targeted video based on your needs.",
+              "If you want more tips, check out our \"<b>Tips & Tricks</b>\"-series <a href=\"https://vibbioexpress.com/tips\">here</a>. If you want to receive video marketing tips twice a month, you are welcome to subscribe to our newsletter (link)."
+            ]
+          },
+          {
+            "question": "I want to add music to my video. Where can I upload this?",
+            "answerParagraphs": [
+              "It is not possible to upload your own music in the Beta version of Express, but send us an email to <a href=\"mailto:express@vibbio.com\">express@vibbio.com</a> and we will find a solution. ",
+              " As a standard, we will always add a suitable free music track to your video."
+            ]
+          }
+        ]
       },
       {
-        "question": "Question 2",
-        "answerParagraphs": ["Hei ", "hallooo"]
+        "topic": "Delivery",
+        "questions": [
+          {
+            "question": "How long will it take until I get my finished video?",
+            "answerParagraphs": [
+              "We have two delivery options – 2 or 5 working days. We promise to send you the video within that time frame."
+            ]
+          },
+          {
+            "question": "How will you send me my video(s)?",
+            "answerParagraphs": [
+              "We will send you a link within 2 or 5 working days (depending on what you order). We will use the email address you provide when you sign up - so make sure that you have access to that address. The first version of the video we send you, will be a preview of the finished product. When we have received your payment, we will send you a new link where you can download the video in top quality. "
+            ]
+          }
+        ]
       },
-
       {
-        "question": "Question 3",
-        "answerParagraphs": ["hei"]
+        "topic": "Payment",
+        "questions": [
+          {
+            "question": "What payment methods do you offer?",
+            "answerParagraphs": [
+              "The payment is split in two - you pay a 50% deposit via PayPal when you order. When the video is finished, you will receive a preview of the finished product (with watermarks). When you pay the remaining 50% (via invoice), we will send you a new download-link with the video without watermarks and in top quality. "
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "Cancellation",
+        "questions": [
+          {
+            "question": "Can I cancel my order?",
+            "answerParagraphs": [
+              "We work hard to guarantee that you get your video on time, and we therefore begin working on it pretty much immediately. It is therefore important that you send us an email within 2 hours if you regret your order."
+            ]
+          },
+          {
+            "question": "What happens if I don't like the video?",
+            "answerParagraphs": [
+              "If you follow our guidelines and watch our tips & tricks-videos, you should be happy with the results. We make the video based on your instructions, so try to be as clear as possible in your descriptions. If a mistake is made on our part, we will of course make any changes necessary. However if you want changes made that were not a part of your original order, we require a fee of 2000 NOK. "
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "Files",
+        "questions": [
+          {
+            "question": "What file types do you accept?",
+            "answerParagraphs": [
+              "We accept these video and image file types: jpeg, jpg, png, ai, eps, photoshop, cr2, h.264, h.265, mp4, mts, m2ts, .mov. "
+            ]
+          },
+          {
+            "question": "And what about file sizes?",
+            "answerParagraphs": [
+              "The maximum file size we allow per file is <b>400mb.</b> If you want to make sure you stay below the limit, we suggest that you try to make each clip maximum one minute in length. This should ensure that the file size is within the boundaries with most file types and video qualities."
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "Rights",
+        "questions": [
+          {
+            "question": "I want to upload some images I found on Google, is that OK?",
+            "answerParagraphs": [
+              "Make sure that you do not upload any images, video clips or any other content that is not your own, unless you have permission from the original copyright owner. ",
+              "You are not allowed to upload any illegal or offensive content to our websites. We will report any illegal use of our website to the authorities. "
+            ]
+          },
+          {
+            "question": "What will you do with my material once the video is finished?",
+            "answerParagraphs": [
+              "We want to maintain a constant flow of inspiration between our customers, so we may ask for your permission to share the video in our social channels. That way, your video can also reach a wider audience!",
+              "After your video is finished and you are happy with the product, we will delete the raw files. You therefore need to make sure you have backups if you wish to use that content again."
+            ]
+          }
+        ]
       }
     ],
-
-
-
     "startpage.public.title": "Welcome to VIBBIO Express!",
     "startpage.public.video.id": "214151164",
     "startpage.public.video.text": "You've probably heard by now, video is the future of communication. So, what's holding you back? Video is too expensive you say? No time to learn editing? Well hey, no need to worry! The answer is right in front of you. Your experiences, your stories, your knowledge. Simply capture with your smartphone and we'll do the rest. Engaging, short, texted, targeted. Videos tailor-made for you. With Vibbio Express you collect the content, we edit and add the smarts! So, don't waste your money or your time. Capture, upload, download, publish. It's video. Made easy.",

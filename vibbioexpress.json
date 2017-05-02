@@ -140,11 +140,21 @@
         ]
       }
     ],
-    "support.page.label.textfield": "What do you need help with?",
-    "support.page.label.phone": "Phone",
-    "support.page.label.email": "Email*",
-    "support.page.label.name": "Name*",
-    "support.page.contact.button": "Contact us",
+    "support.page.title": "VIBBIO Support",
+    "support.page.description.paragraphs": [
+      "If you get confused, stuck or otherwise need some assistance - simply contact us.",
+      "But make sure to check our <a href=\"https://vibbioexpress.com/faq\" class=\"vibbio-express-link\">FAQ</a> section also, as you may find your answer there even quicker."
+    ],
+    "support.page.contact.information.email": "Email: <a href=\"mailto:help@vibbio.com\" class=\"vibbio-express-link\">help@vibbio.com</a>",
+    "support.page.contact.information.phonenumber": "",
+    "support.page.contact.openinghours": "(Opening hours: 09-17 Mon to Fri)",
+    "support.page.contactform.label.textfield": "What do you need help with?",
+    "support.page.contactform.label.phone": "Phone",
+    "support.page.contactform.label.email": "Email*",
+    "support.page.contactform.label.name": "Name*",
+    "support.page.contactform.contact.button": "Contact us",
+    "support.page.contactform.submit.success.header": "Thanks for reaching out!",
+    "support.page.contactform.submit.success.body": "Your message has successfully been sent to VIBBIO Express and we will contact you very soon!",
     "tips.page.title": "How to get started",
     "tips.page.videoIds": [
       {

@@ -140,6 +140,54 @@
         ]
       }
     ],
+    "support.page.label.textfield": "What do you need help with?",
+    "support.page.label.phone": "Phone",
+    "support.page.label.email": "Email*",
+    "support.page.label.name": "Name*",
+    "support.page.contact.button": "Contact us",
+    "tips.page.title": "How to get started",
+    "tips.page.videoIds": [
+      {
+        "id": "208810755",
+        "description": "Sound quality. To improve the sound quality during filming, place a second phone closer to the subject. This phone will pick up the sound a lot better, as it is closer than the one filming. Try it!"
+      },
+      {
+        "id": "208810620",
+        "description": "Framing. Composing your shot: Use the golden ration for interview setup. The wide shot. The medium shot. The close up. Now you’re ready to film your interview."
+      },
+      {
+        "id": "208810245",
+        "description": "Tips & tricks during filming. Hit the flightmode button to avoid disturbances. No more phone calls during filming. One more thing to remember: Avoid covering the microphone to get the best sound possible."
+      },
+      {
+        "id": "208809857",
+        "description": "Lighting. How is the lighting in your videos? Avoid windows in your shots! The light from the outdoors will make your subject appear darker. And you don’t want that."
+      },
+      {
+        "id": "208809544",
+        "description": "Resolution. “Sticking to your resolutions!” This is the size of a 1080p frame. Your smartphone or camera will use this as the default setting. Now, say hello to 4K UHD! You get four times the resolution, but it also takes up a lot more space. Both resolutions look great, but consider what’s more important to you.. Quality increase or saving space?"
+      },
+      {
+        "id": "208809436",
+        "description": "Movement “It’s all in the hips”. A static image can be boring. So just move your hips. There you go!"
+      },
+      {
+        "id": "208809011",
+        "description": "Depth. Setting up the perfect shot:  Try to avoid flat backdrops. Now we have depth!"
+        },
+      {
+        "id": "208808226",
+        "description": "Size. Keep your recordings short and to the point. Try to limit each clip to 30 seconds. This saves space and streamlines the editing process."
+      },
+      {
+        "id": "208807999",
+        "description": "Content tutorial Step 1: before shooting. Set a goal. What do you want to achieve with this video? Who is your target audience? Step 2: content. Stick to one topic per video. Everyone should be able to understand your message. Avoid filler words and long sentences. Stay on topic and be specific! Step 3: catch the audience. The first three seconds will make it or break it. Begin with an interesting questions or something that will catch the eye. Make your audience curious. Step 4: ending. Call to action! Provoke an immediate response. The audience should learn something and be hungry for more. Did you achieve your goal? Basics of filming. Step 1: Holding your camera correctly. Not like this… but like this! Step 2: Remember lighting. Step 3: Make sure your camera is held still. There you go! Finally, be creative! "
+      }
+    ],
+    "tips.page.description.paragraphs": [
+      "We have created some simple and easy tips & tricks here to help you get started with creating your own video content.",
+      "With small adjustments and a bit of clever planning, you can learn to become a smart video director!"
+    ],
     "startpage.public.title": "Welcome to VIBBIO Express!",
     "startpage.public.video.id": "214151164",
     "startpage.public.video.text": "You've probably heard by now, video is the future of communication. So, what's holding you back? Video is too expensive you say? No time to learn editing? Well hey, no need to worry! The answer is right in front of you. Your experiences, your stories, your knowledge. Simply capture with your smartphone and we'll do the rest. Engaging, short, texted, targeted. Videos tailor-made for you. With Vibbio Express you collect the content, we edit and add the smarts! So, don't waste your money or your time. Capture, upload, download, publish. It's video. Made easy.",

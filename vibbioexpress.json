@@ -214,6 +214,40 @@
     ],
     "side.banner.header": "Intro & Explainers",
     "side.banner.link": "More...",
+    "cookies.page.title": "Privacy Policy on Cookie Usage",
+    "cookies.page.paragraphs": [
+      {
+        "title": "About cookies",
+        "paragraphs": [
+          "Cookies are very small text files that are stored on your computer when you visit some websites.",
+          "We use cookies to help identify your computer so we can tailor your user experience and remember where you are in the order process.",
+          "You can disable any cookies already stored on your computer, but these may stop our website from functioning properly."
+        ]
+      },
+      {
+        "title": "This website will:",
+        "paragraphs": [
+          " - Remember your registered information and uploaded files",
+          " - Remember where you are in the order process",
+          " - Remember that you are logged in and that your session is secure. You need to be logged in to complete an order.",
+          "The following are not Strictly Necessary, but are required to provide you with the best user experience and also to tell us which pages you find most interesting (anonymously)."
+        ]
+      },
+      {
+        "title": "We also include third party cookies:",
+        "paragraphs": [
+          " - To track the pages you visits via Google Analytics",
+          " - From the Vimeo video player",
+          " - To allow you to share pages with social networks such as Facebook"
+        ]
+      },
+      {
+        "title": "",
+        "paragraphs": [
+          " - Share any personal information with third parties."
+        ]
+      }
+    ],
     "startpage.public.title": "Welcome to VIBBIO Express!",
     "startpage.public.video.id": "214151164",
     "startpage.public.video.text": "You've probably heard by now, video is the future of communication. So, what's holding you back? Video is too expensive you say? No time to learn editing? Well hey, no need to worry! The answer is right in front of you. Your experiences, your stories, your knowledge. Simply capture with your smartphone and we'll do the rest. Engaging, short, texted, targeted. Videos tailor-made for you. With Vibbio Express you collect the content, we edit and add the smarts! So, don't waste your money or your time. Capture, upload, download, publish. It's video. Made easy.",

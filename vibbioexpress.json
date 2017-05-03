@@ -263,7 +263,7 @@
     "discountcode.order.success.contact": "Do you have any questions? Please contact us as at {email}",
     "discount.label.usecode": "Enter your discount code",
     "discount.button.usecode": "Use discount code",
-    "discount.code.applied": "Your discount code {discountcode} has now been applied.",
+    "discount.code.applied": "Your discount code ({discountcode}) has now been applied.",
     "discount.code.order.total.label": "<b>Order total:</b> {sum} ",
     "discount.code.delivery.time.label": "<b>Delivery time:</b> {time}",
     "discount.code.payment.label": "<b>Payment:</b> {info} ",

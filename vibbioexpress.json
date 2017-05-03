@@ -281,8 +281,8 @@
     "discount.code.payment.BFFVIBBIO": "No payment is required",
 
     "discount.code.order.total.GENERAL": "Problem finding  total sum",
-    "discount.code.delivery.time.GENERAL": "Problem finding expected delivery time"
-
+    "discount.code.delivery.time.GENERAL": "Problem finding expected delivery time",
+    "discount.code.payment.GENERAL": "Problem finding information about payment"
 
   }
 }

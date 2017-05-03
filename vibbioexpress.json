@@ -258,9 +258,27 @@
     "startpage.public.examples": "We create short, texted and dynamic videos. Here are a couple of {examples}.",
     "startpage.public.beta.description": "PS: This application is currently in beta, which means that all the functionality is not finished. Therefore we would really appreciate your feedback on {link}.",
     "startpage.private.order.button": "Order a video",
-    "discount.deliverytype.SOON": "This discount code lets you .... ",
-    "discount.deliverytype.EXPRESS": "This discount code gives you a discount on one video with express delivery time",
-    "discount.deliverytype.STANDARD": "This discount code gives you a discount on one video with standard delivery time",
-    "discount.deliverytype.ALL": "This discount code gives you a discount on your video"
+    "discountcode.order.success.title": "Thank you for your ordering from Vibbio Express!",
+    "discountcode.order.success.description": "An email is on it’s way to you with your order confirmation. You will receive the invoice when the video is ready.",
+    "discountcode.order.success.contact": "Do you have any questions? Please contact us as at {email}",
+    "discount.code.order.total.label": "Order total:",
+    "discount.code.description.label": "Order total:",
+    "discount.code.order.total.HAPPYVIBBIO": "5000 NOK",
+    "discount.code.delivery.time.HAPPYVIBBIO": "5-7 working days",
+    "discount.code.payment.HAPPYVIBBIO": "You will receive an email with a watermarked preview of your video, along with an invoice, within the delivery time. When we have received the payment, we’ll send you the video right away!",
+    "discount.code.order.total.PROMOVIBBIO": "3000 NOK",
+    "discount.code.delivery.time.PROMOVIBBIO": "5-10 working days",
+    "discount.code.payment.PROMOVIBBIO": "You will receive an email with a watermarked preview of your video, along with an invoice, within the delivery time. When we have received the payment, we’ll send you the video right away!",
+    "discount.code.order.total.TESTINGVIBBIO": "2000 NOK",
+    "discount.code.delivery.time.TESTINGVIBBIO": "5-10 working days",
+    "discount.code.payment.TESTINGVIBBIO": "You will receive an email with a watermarked preview of your video, along with an invoice, within the delivery time. When we have received the payment, we’ll send you the video right away!",
+    "discount.code.order.total.BFFVIBBIO": "0 NOK",
+    "discount.code.delivery.time.BFFVIBBIO": "5-10 working days",
+    "discount.code.payment.BFFVIBBIO": "",
+
+    "discount.code.order.total.GENERAL": "Problem finding  total sum",
+    "discount.code.delivery.time.GENERAL": "Problem finding expected delivery time"
+
+
   }
 }

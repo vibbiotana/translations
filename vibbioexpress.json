@@ -264,9 +264,9 @@
     "discount.label.usecode": "Enter your discount code",
     "discount.button.usecode": "Use discount code",
     "discount.code.applied": "Your discount code has now been applied.",
-    "discount.code.order.total.label": "Order total:",
-    "discount.code.delivery.time.label": "Delivery time",
-    "discount.code.payment.label": "Payment",
+    "discount.code.order.total.label": "Order total: {sum} ",
+    "discount.code.delivery.time.label": "Delivery time: {time}",
+    "discount.code.payment.label": "Payment: {info} ",
     "discount.code.order.total.HAPPYVIBBIO": "5000 NOK",
     "discount.code.delivery.time.HAPPYVIBBIO": "5-7 working days",
     "discount.code.payment.HAPPYVIBBIO": "You will receive an email with a watermarked preview of your video, along with an invoice, within the delivery time. When we have received the payment, we’ll send you the video right away!",
@@ -278,7 +278,7 @@
     "discount.code.payment.TESTINGVIBBIO": "You will receive an email with a watermarked preview of your video, along with an invoice, within the delivery time. When we have received the payment, we’ll send you the video right away!",
     "discount.code.order.total.BFFVIBBIO": "0 NOK",
     "discount.code.delivery.time.BFFVIBBIO": "5-10 working days",
-    "discount.code.payment.BFFVIBBIO": "",
+    "discount.code.payment.BFFVIBBIO": "No payment is required",
 
     "discount.code.order.total.GENERAL": "Problem finding  total sum",
     "discount.code.delivery.time.GENERAL": "Problem finding expected delivery time"

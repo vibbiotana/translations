@@ -281,19 +281,21 @@
     "fileuploading.uploaded.files.images": "Your uploaded images:",
 
 
+    "styles.title": "Define the style of your video.",
+    "styles.title.number.to.choose": "(Choose 1)",
     "styles.back.button.text": "Back to uploading files",
     "styles.next.button.text": "Next: Summary",
 
     "summary.title": "Summary",
     "summary.description": "Please check through the summary below. You can correct any mistakes by clicking back on the menu tabs above.",
-    "summary.back.button.text": "Back to styles",
+    "summary.back.button.text": "Back to choosing styles",
 
-    "discountcode.order.success.title": "Thank you for your ordering from Vibbio Express!",
+    "discountcode.order.success.title": "Thank you for your ordering from VIBBIO Express!",
     "discountcode.order.success.description": "An email is on it’s way to you with your order confirmation. You will receive the invoice when the video is ready.",
     "discountcode.order.success.contact": "Do you have any questions? Please contact us as at {email}",
     "order.success.go.home.button": "Go home",
-    "discount.label.usecode": "Enter your discount code",
-    "discount.button.usecode": "Use discount code",
+    "discount.label.usecode": "Do you have a code?",
+    "discount.button.usecode": "Apply",
     "discount.code.applied": "Your discount code ({discountcode}) has now been applied.",
     "discount.code.order.total.label": "<b>Order total:</b> {sum} ",
     "discount.code.delivery.time.label": "<b>Delivery time:</b> {time}",

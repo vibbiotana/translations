@@ -279,7 +279,7 @@
     "fileuploading.next.button.text": "Next: Select styles",
     "fileuploading.uploaded.files.videos": "Your uploaded videos:",
     "fileuploading.uploaded.files.images": "Your uploaded images:",
-    "fileuploading.uploaded.files.videos.description": "<p>Use the description boxes next to each clip to specify how you want us to use it.</p><p> - Time stamps for which specific parts of the clip you want us to use (if not the entire clip)</p><p> - What text you want us to add onto the clip.</p><p> - If it is an interview, we need the full transcription.</p>",
+    "fileuploading.uploaded.files.videos.description": "<p><b>Use the description boxes next to each clip to specify how you want us to use it.</b></p><p> - Time stamps for which specific parts of the clip you want us to use (if not the entire clip)</p><p> - What text you want us to add onto the clip.</p><p> - If it is an interview, we need the full transcription.</p>",
 
     "styles.title": "Define the style of your video.",
     "styles.title.number.to.choose": " (Choose 1)",

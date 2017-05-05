@@ -284,8 +284,7 @@
     "styles.title": "Define the style of your video.",
     "styles.title.number.to.choose": " (Choose 1)",
     "styles.back.button.text": "Back to uploading files",
-    "styles.next.button.text": "Next: 
-    ",
+    "styles.next.button.text": "Next: Summary",
 
     "summary.title": "Please read through the summary below",
     "summary.description": "You can correct any mistakes by clicking “Back”.",

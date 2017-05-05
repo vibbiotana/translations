@@ -299,7 +299,7 @@
     "discount.code.applied": "Your discount code ({discountcode}) has now been applied.",
     "discount.code.order.total.label": "<b>Order total:</b> {sum} ",
     "discount.code.delivery.time.label": "<b>Delivery time:</b> {time}",
-    "discount.code.payment.label": "<b>Payment:</b> {info} ",
+    "discount.code.payment.label": "About payment: ",
     "discount.code.order.total.HAPPYVIBBIO": "5000 NOK",
     "discount.code.delivery.time.HAPPYVIBBIO": "5-7 working days",
     "discount.code.payment.HAPPYVIBBIO": "You will receive an email with a watermarked preview of your video, along with an invoice, within the delivery time. When we have received the payment, we’ll send you the video right away!",

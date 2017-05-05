@@ -265,7 +265,7 @@
     "description.title": "Hey {name}! Let's make a video!",
     "description.about.description": "<p>What is the topic of your video, and what will you be using it for?</p> <p>Let’s get started! First, tell us about your idea. We want to make sure you get exactly the video you want, so don’t skimp on the details! </p>",
     "description.about.video.description": "What kind of video are we making?",
-    "description.example.description": "I will be using this video to promote my company, which ....",
+    "description.example.description": "I work for software company, and this video will be about one of our products and how to use it. The main goal of the video is to get more users for our product through showing off how easy it is to use. Our target group is students aged 20-30. We will feature the video on our website as well as Facebook and Instagram.",
     "description.example.title": "Example:",
     "description.button.text": "Next: upload files",
     "fileuploading.uploader.title": "What files do you want us to use?",

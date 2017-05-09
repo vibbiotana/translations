@@ -285,9 +285,9 @@
     "fileuploading.uploaded.files.videos.interview.description": "Is this an interview?",
     "fileuploading.uploaded.files.video.interview.label": "Add transcription for interview",
     "fileuploading.uploaded.files.description.header": "Text and details about your clip",
-    "fileuploading.uploaded.files.description.header.added": "Text and details that will be ",
+    "fileuploading.uploaded.files.description.header.added": "Text and details that will be added to your video",
     "fileuploading.uploaded.files.interview.header": "Interview transcript for your interview",
-    "fileuploading.uploaded.files.interview.header.added": "Interview transcript for your interview",
+    "fileuploading.uploaded.files.interview.header.added": "Interview transcript for your interview that will be added to your video",
 
 
     "styles.title": "Define the style of your video.",

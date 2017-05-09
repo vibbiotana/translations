@@ -269,13 +269,15 @@
     "description.about.video.description": "What kind of video are we making?",
     "description.example.description": "I work for software company, and this video will be about one of our products and how to use it. The main goal of the video is to get more users for our product through showing off how easy it is to use. Our target group is students aged 20-30. We will feature the video on our website as well as Facebook and Instagram.",
     "description.example.title": "Example:",
-    "description.button.text": "Next: upload files",
+    "description.button.text": "Next: Visual profile",
 
 
     "designprofile.title": "Enter details about your company's design profile",
     "design.profile.upload.logo.label": "Upload your company's logo",
     "design.profile.about.label": "Add your company's color profile",
     "designprofile.logo.preview.label": "Preview of your logo",
+    "designprofile.next.button.text": "Next: Upload files",
+    "designprofile.back.button.text": "Back: Description",
 
     "fileuploading.uploader.title": "What files do you want us to use?",
     "fileuploading.uploader.browse.box": "Drag and drop files here, or click to {browse} files to upload.",

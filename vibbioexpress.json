@@ -272,7 +272,7 @@
     "description.button.text": "Next: upload files",
 
     "fileuploading.uploader.title": "What files do you want us to use?",
-    "fileuploading.uploader.browse.box": "Drag and drop files here, or click to {browse} files to upload.",
+    "fileuploading.uploader.browse.box": "Drag and drop files here, or{browse}for files to upload.",
     "fileuploading.uploader.explanation": "<p>- Maximum 15 files</p><p>- No files over 400MB (contact us if you have bigger files)</p><p>- Filetypes: jpeg, jpg, png, ai, eps, photoshop, cr2, mp4, mts, m2ts, .mov.</p>",
     "fileuploading.back.button.text": "Back to description",
     "fileuploading.uploading.warning": "<h2 className=\"main-frame-title\">Warning!</h2> <p>Maximum number of files are uploaded, you will have to delete files to upload more files. </p> <p>Or you can contact us at <a href=\"mailto:help@vibbio.com\" className=\"vibbio-express-link\"> help@vibbio.com </a> and we wil find a solution to your problem.</p>",

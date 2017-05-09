@@ -267,7 +267,7 @@
     "description.title": "Let's make a video!",
     "description.about.description": "<p>First, tell us about your idea. We want to make sure you get exactly the video you want, so don’t skimp on the details. </p>",
     "description.about.video.description": "What kind of video are we making?",
-    "description.example.description": "I work for software company, and this video will be about one of our products and how to use it. The main goal of the video is to get more users for our product through showing off how easy it is to use. Our target group is students aged 20-30. We will feature the video on our website as well as Facebook and Instagram.",
+    "description.example.description": "I work for a software company, and this video will be about one of our products and how to use it. The main goal of the video is to get more users for our product through showing off how easy it is to use. Our target group is students aged 20-30. We will feature the video on our website as well as on Facebook and Instagram.",
     "description.example.title": "Example:",
     "description.button.text": "Next: Upload files",
 
@@ -300,9 +300,9 @@
     "summary.back.button.text": "Back: Choose style",
 
     "discountcode.order.success.title": "Thank you for ordering from VIBBIO Express!",
-    "discountcode.order.success.description": "An email is on it’s way to you with your order confirmation. You will receive the invoice when the video is ready.",
-    "discountcode.order.success.contact": "Any questions? You can reach us at {email} - any time!",
-    "order.success.go.home.button": "Go home",
+    "discountcode.order.success.description": "An email is on it’s way to you with your order confirmation. You will receive the invoice once the video is completed.",
+    "discountcode.order.success.contact": "Got any questions? You can reach us at {email} any time!",
+    "order.success.go.home.button": "Return to homepage",
     "discount.label.usecode": "Do you have a discount code?",
     "discount.button.usecode": "Apply",
     "discount.code.applied": "Your discount code ({discountcode}) has now been applied.",

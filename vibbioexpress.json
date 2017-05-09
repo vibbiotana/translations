@@ -271,6 +271,12 @@
     "description.example.title": "Example:",
     "description.button.text": "Next: upload files",
 
+
+    "designprofile.title": "Enter details about your company's design profile",
+    "design.profile.upload.logo.label": "Upload your company's logo",
+    "design.profile.about.label": "Add your company's color profile",
+    "designprofile.logo.preview.label": "Preview of your logo",
+
     "fileuploading.uploader.title": "What files do you want us to use?",
     "fileuploading.uploader.browse.box": "Drag and drop files here, or click to {browse} files to upload.",
     "fileuploading.uploader.explanation": "<p>- Maximum 15 files</p><p>- No files over 400MB (contact us if you have bigger files)</p><p>- Filetypes: jpeg, jpg, png, ai, eps, photoshop, cr2, mp4, mts, m2ts, .mov.</p>",
